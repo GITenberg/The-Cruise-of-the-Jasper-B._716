@@ -1,0 +1,35 @@
+_repo: The-Cruise-of-the-Jasper-B._716
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marquis, Don
+    aliases:
+    - Marquis, D. R. (Donald Robert)
+    - Marquis, Donald Robert Perry
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '245'
+    url: http://www.gutenberg.org/2009/agents/245
+    wikipedia: http://en.wikipedia.org/wiki/Don_Marquis
+description: On an evening in April, Clement J. Cleggett walked sedately into the
+  news room of the New York Enterprise with a drab-colored walking-stick in his hand.
+  He stood the cane in a corner, changed his sober street coat for a more sober office
+  jacket, adjusted a green eyeshade below his primly brushed grayish hair, unostentatiously
+  sat down at the copy desk, and unobtrusively opened a drawer. For more than ten
+  years Cleggett had done the same thing at the same time in the same manner, six
+  nights of the week.
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cruise ships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Cruise of the Jasper B.
+url: http://www.gutenberg.org/ebooks/716
